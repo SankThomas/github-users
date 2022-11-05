@@ -46,7 +46,7 @@ function App() {
           <ul className="flex  items-center space-x-2 text-xl my-8 sm:justify-center">
             <li className=" text-emerald-400 rounded-lg px-3 py-2 font-medium hover:bg-slate-100 hover:text-slate-900">
               {" "}
-              <Link to="/">Home</Link>
+              <Link to="/">Home</Link> 
             </li>
             <li className="text-emerald-400 focus:ring-violet-300 rounded-lg px-3 py-2  font-medium hover:bg-slate-100 hover:text-slate-900">
               {" "}
