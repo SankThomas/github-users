@@ -27,7 +27,7 @@ body {
   max-width: 76.25rem;
   margin: auto;
   padding: 1.25rem;
-  @apply bg-emerald-100 text-emerald-800;
+  @apply bg-slate-900	 text-stone-300;
 }
 
 p {

@@ -4,7 +4,7 @@ import { format } from "date-fns"
 export default function Profile(props) {
   return (
     <>
-      <article className="bg-white p-5 rounded shadow shadow-emerald-300">
+      <article className="hover:scale-105 bg-gray-900 p-5 rounded shadow shadow-emerald-300">
         <div className="flex items-center">
           <img
             src={props.owner.avatar_url}
